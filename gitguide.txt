@@ -1,6 +1,7 @@
 
 
-
+#获取最新的库
+$ git pull
 
 #添加并切换到分支 "dev"
 $ git checkout -b dev
