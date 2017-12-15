@@ -2,7 +2,7 @@
 
 
 
-#添加分支 "dev"
+#添加并切换到分支 "dev"
 $ git checkout -b dev
 
 #合并 “DEV” 到当前分支
@@ -10,3 +10,4 @@ $ git merge dev
 
 #删除分支
 $ git branch -d dev
+
